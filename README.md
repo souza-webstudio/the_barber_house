@@ -1,0 +1,1 @@
+Sistema web de gestão e agendamento para barbearias, feito em PHP e MySQL. Permite agendar online (com ou sem cadastro), evita conflitos de horário e reúne catálogo de serviços e produtos, avaliações, chat de suporte e painel administrativo com CRUD. Projeto final do Técnico em Informática para Internet (FAETEC), por ByteCut Solutions.
